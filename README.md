@@ -4,10 +4,6 @@ My name is **Melly Anggraini**.<br>
  
 I’m a **Frontend Developer**.<br>
  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
 If you're interested in connecting, feel free to visit my [LinkedIn](https://www.linkedin.com/in/mellyanggr) profile.
  
 ### Github Statistic
