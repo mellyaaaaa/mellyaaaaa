@@ -2,7 +2,7 @@
 
 My name is **Melly Anggraini**.<br>
  
-I’m a **Frontend Developer**.<br>
+I’m a **AI/ML Engineer**.<br>
  
 If you're interested in connecting, feel free to visit my [LinkedIn](https://www.linkedin.com/in/mellyanggr) profile.
  
